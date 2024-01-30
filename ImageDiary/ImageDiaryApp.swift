@@ -11,7 +11,7 @@ import SwiftUI
 struct ImageDiaryApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            DiaryView()
         }
     }
 }
